@@ -1,2 +1,1 @@
-# riddem-downloads
-Downloads Of My Game *Riddem*
+# Downloads Of My Game *Riddem*
